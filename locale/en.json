@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Sign in with Claude",
+    "description": "Adds a Claude Pro/Max subscription sign-in to the Anthropic provider card in Models settings, so signing in no longer needs a CLI script."
+  }
+}

@@ -1,0 +1,30 @@
+# --- Secrets: never commit these -------------------------------------------
+.credentials.yaml
+credentials.yaml
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+
+# --- DSH runtime state ------------------------------------------------------
+.dsh/
+profiles/
+sessions/
+storages/
+logs/
+*.log
+
+# --- Node -------------------------------------------------------------------
+node_modules/
+pnpm-lock.yaml
+npm-debug.log*
+yarn-error.log*
+
+# --- Editors / OS -----------------------------------------------------------
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp

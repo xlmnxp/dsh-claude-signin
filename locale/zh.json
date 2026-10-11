@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "使用 Claude 登录",
+    "description": "在“模型”设置的 Anthropic 提供商卡片中加入 Claude Pro/Max 订阅登录，无需再使用命令行脚本。"
+  }
+}
